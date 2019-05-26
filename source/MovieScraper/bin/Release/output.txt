@@ -1,0 +1,100 @@
+1: The Kid (1921), 16/1/1921
+2: City Lights (1931), 30/1/1931
+3: M - Eine Stadt sucht einen MÃ¶rder (1931), 11/5/1931
+4: Modern Times (1936), 5/2/1936
+5: The Great Dictator (1940), 15/10/1940
+6: Citizen Kane (1941), 1/5/1941
+7: Casablanca (1942), 26/11/1942
+8: Double Indemnity (1944), 3/7/1944
+9: It's a Wonderful Life (1946), 20/12/1946
+10: Ladri di biciclette (1948), 24/11/1948
+11: Sunset Blvd. (1950), 10/8/1950
+12: Singin' in the Rain (1952), 27/3/1952
+13: Shichinin no samurai (1954), 26/4/1954
+14: Rear Window (1954), 4/8/1954
+15: 12 Angry Men (1957), 10/4/1957
+16: Paths of Glory (1957), 1/11/1957
+17: Witness for the Prosecution (1957), 17/12/1957
+18: Vertigo (1958), 9/5/1958
+19: North by Northwest (1959), 1/7/1959
+20: Psycho (1960), 16/6/1960
+21: Lawrence of Arabia (1962), 10/12/1962
+22: To Kill a Mockingbird (1962), 25/12/1962
+23: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1964), 29/1/1964
+24: Il buono, il brutto, il cattivo (1966), 23/12/1966
+25: 2001: A Space Odyssey (1968), 2/4/1968
+26: Once Upon a Time in the West (1968), 20/12/1968
+27: A Clockwork Orange (1971), 19/12/1971
+28: The Godfather (1972), 14/3/1972
+29: The Godfather: Part II (1974), 12/12/1974
+30: One Flew Over the Cuckoo's Nest (1975), 19/11/1975
+31: Taxi Driver (1976), 7/2/1976
+32: Star Wars (1977), 25/5/1977
+33: Apocalypse Now (1979), 19/5/1979
+34: Alien (1979), 25/5/1979
+35: Star Wars: Episode V - The Empire Strikes Back (1980), 17/5/1980
+36: The Shining (1980), 23/5/1980
+37: Raiders of the Lost Ark (1981), 12/6/1981
+38: Das Boot (1981), 17/9/1981
+39: Star Wars: Episode VI - Return of the Jedi (1983), 25/5/1983
+40: Once Upon a Time in America (1984), 20/5/1984
+41: Amadeus (1984), 6/9/1984
+42: Back to the Future (1985), 3/7/1985
+43: Aliens (1986), 14/7/1986
+44: Full Metal Jacket (1987), 17/6/1987
+45: Hotaru no haka (1988), 16/4/1988
+46: Nuovo Cinema Paradiso (1988), 29/9/1988
+47: Goodfellas (1990), 9/9/1990
+48: The Silence of the Lambs (1991), 30/1/1991
+49: Terminator 2: Judgment Day (1991), 1/7/1991
+50: Reservoir Dogs (1992), 21/1/1992
+51: Schindler's List (1993), 30/11/1993
+52: The Lion King (1994), 7/5/1994
+53: Pulp Fiction (1994), 21/5/1994
+54: Forrest Gump (1994), 23/6/1994
+55: The Shawshank Redemption (1994), 10/9/1994
+56: LÃ©on (1994), 14/9/1994
+57: The Usual Suspects (1995), 25/1/1995
+58: Braveheart (1995), 18/5/1995
+59: Se7en (1995), 15/9/1995
+60: Toy Story (1995), 19/11/1995
+61: Mononoke-hime (1997), 12/7/1997
+62: La vita Ã¨ bella (1997), 20/12/1997
+63: Saving Private Ryan (1998), 21/7/1998
+64: American History X (1998), 30/10/1998
+65: The Matrix (1999), 24/3/1999
+66: American Beauty (1999), 8/9/1999
+67: Fight Club (1999), 10/9/1999
+68: The Green Mile (1999), 6/12/1999
+69: Gladiator (2000), 1/5/2000
+70: Requiem for a Dream (2000), 14/5/2000
+71: Memento (2000), 5/9/2000
+72: AmÃ©lie (2001), 25/4/2001
+73: Sen to Chihiro no kamikakushi (2001), 20/7/2001
+74: The Lord of the Rings: The Fellowship of the Ring (2001), 10/12/2001
+75: Cidade de Deus (2002), 18/5/2002
+76: The Pianist (2002), 24/5/2002
+77: The Lord of the Rings: The Two Towers (2002), 5/12/2002
+78: Oldeuboi (2003), 21/11/2003
+79: The Lord of the Rings: The Return of the King (2003), 1/12/2003
+80: Eternal Sunshine of the Spotless Mind (2004), 9/3/2004
+81: The Lives of Others (2006), 15/3/2006
+82: The Departed (2006), 26/9/2006
+83: The Prestige (2006), 17/10/2006
+84: Taare Zameen Par (2007), 21/12/2007
+85: WALLÂ·E (2008), 21/6/2008
+86: The Dark Knight (2008), 14/7/2008
+87: Inglourious Basterds (2009), 20/5/2009
+88: 3 Idiots (2009), 23/12/2009
+89: Inception (2010), 8/7/2010
+90: The Intouchables (2011), 23/9/2011
+91: The Dark Knight Rises (2012), 16/7/2012
+92: Django Unchained (2012), 11/12/2012
+93: Whiplash (2014), 16/1/2014
+94: Interstellar (2014), 26/10/2014
+95: Kimi no na wa. (2016), 3/7/2016
+96: Dangal (2016), 21/12/2016
+97: Coco (2017), 20/10/2017
+98: Avengers: Infinity War (2018), 23/4/2018
+99: Spider-Man: Into the Spider-Verse (2018), 6/12/2018
+100: Avengers: Endgame (2019), 22/4/2019

@@ -1,0 +1,11 @@
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\bin\Debug\MovieScraper.exe.config
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\bin\Debug\MovieScraper.exe
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\bin\Debug\MovieScraper.pdb
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Debug\MovieScraper.csprojAssemblyReference.cache
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Debug\MovieScraper.csproj.CoreCompileInputs.cache
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Debug\MovieScraper.csproj.CopyComplete
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Debug\MovieScraper.exe
+C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Debug\MovieScraper.pdb
