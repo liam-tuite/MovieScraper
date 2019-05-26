@@ -47,7 +47,7 @@ namespace MovieScraper
 
             List<HtmlNode> titleColumnNodes = currentDocument.DocumentNode.Descendants("td").Where((n) => n.HasClass("titleColumn")).ToList();
 
-            for(int i = 0; i < 100; i++)
+            for(int i = 0; i < MainClass.NUM_MOVIES; i++)
             {
                 links.Add(MainClass.IMDB_URL + titleColumnNodes[i].Descendants("a").First().GetAttributeValue("href", ""));
             }

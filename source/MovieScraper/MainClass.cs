@@ -8,6 +8,7 @@ namespace MovieScraper
     {
         public const string INPUT_URL = "https://www.imdb.com/chart/top?ref_=nv_mv_250";
         public const string IMDB_URL = "https://www.imdb.com";
+        public const short NUM_MOVIES = 250; // The amount of movies you want to consider. 250 is the max.
 
         public static void Main(string[] args)
         {
