@@ -9,3 +9,14 @@ C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Release\MovieScraper.c
 C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Release\MovieScraper.exe
 C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Release\MovieScraper.pdb
 C:\Users\liamt\source\repos\MovieScraper\MovieScraper\obj\Release\MovieScraper.csprojAssemblyReference.cache
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\bin\Release\MovieScraper.exe.config
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\bin\Release\MovieScraper.exe
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\bin\Release\MovieScraper.pdb
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\bin\Release\HtmlAgilityPack.dll
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\bin\Release\HtmlAgilityPack.pdb
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\bin\Release\HtmlAgilityPack.xml
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\obj\Release\MovieScraper.csprojAssemblyReference.cache
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\obj\Release\MovieScraper.csproj.CoreCompileInputs.cache
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\obj\Release\MovieScraper.csproj.CopyComplete
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\obj\Release\MovieScraper.exe
+C:\Program Files\Git repos\MovieScraper\source\MovieScraper\obj\Release\MovieScraper.pdb

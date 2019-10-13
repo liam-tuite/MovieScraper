@@ -20,6 +20,7 @@ namespace MovieScraper
                 movie = new Movie()
                 {
                     PageLink = link,
+
                     Title = IMDBHtmlExtractor.ExtractMovieTitle(link),
                     ReleaseDate = ParseReleaseDate(IMDBHtmlExtractor.ExtractReleaseDateString(link))
                 };

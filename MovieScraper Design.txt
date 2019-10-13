@@ -1,0 +1,16 @@
+The program will, when executed, procedurally generate and output a list of the top 250 movies (as rated by IMDb users) which is
+sorted chronologically.
+
+There is no input. The output will be a .txt file with a numbered list of movies. Eg (not necessarily the correct years or order):
+
+1. Casablanca (1942)
+2. The Godfather (1972)
+3. The Shawshank Redemption (1994)
+4. Inception (2008)
+
+Make a function to construct a movie model from a movie's page.
+	-> A Movie has a name and release date. These in particular are all we need to extract from the site.
+	-> Name is a string, release date should be a DateTime parsed from the raw html string.
+Make a function to get the top 250 movies into a list.
+Make a function to sort the list based on release date.
+Make a function to format and output each movie in the list to a .txt file.

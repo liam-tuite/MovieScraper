@@ -56,10 +56,10 @@ namespace MovieScraper
         }
 
         /// <summary>
-        /// Extracts the movie title from its IMDb page and returns it.
+        /// This is a function.
         /// </summary>
-        /// <param name="link">The link to the movie's IMDb page.</param>
-        /// <returns>The title of the movie.</returns>
+        /// <param name="link">parameter</param>
+        /// <returns></returns>
         public static string ExtractMovieTitle(string link)
         {
             OpenNewDocument(link);
@@ -86,9 +86,7 @@ namespace MovieScraper
             int skipCount = 1;
 
             while(ret.Split(' ').Length != 3)
-            {
                 ret = releaseDateNodes.Skip(skipCount++).First().InnerText.Trim();
-            }
 
             return ret;
         }
